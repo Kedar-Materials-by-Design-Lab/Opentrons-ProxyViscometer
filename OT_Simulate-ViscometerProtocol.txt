@@ -1,0 +1,344 @@
+Picking up tip from A1 of Opentrons 96 Filter Tip Rack 1000 µL on 7 
+Moving to A1 of AMDM 12 50ml falcon tube on 1
+Delaying for 0 minutes and 10.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Moving to A1 of Corning 6 Well Plate 16.8 mL Flat on 4
+Delaying for 0 minutes and 5.0 seconds
+Touching tip
+Moving to A1 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Touching tip
+Moving to A1 of AMDM 12 50ml falcon tube on 1
+Delaying for 0 minutes and 10.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Moving to A1 of Corning 6 Well Plate 16.8 mL Flat on 4
+Delaying for 0 minutes and 5.0 seconds
+Touching tip
+Moving to A1 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Touching tip
+Moving to A1 of AMDM 12 50ml falcon tube on 1
+Delaying for 0 minutes and 10.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Moving to A1 of Corning 6 Well Plate 16.8 mL Flat on 4
+Delaying for 0 minutes and 5.0 seconds
+Touching tip
+Moving to A1 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Touching tip
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Aspirating 375.0 uL from A1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 20.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Dispensing 250.0 uL into A1 of Corning 6 Well Plate 16.8 mL Flat on 4 at 50.0 uL/sec
+Touching tip
+Moving to A4 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Dispensing 1000.0 uL into A1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 20.0 seconds
+Aspirating 400.0 uL from A1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 10.0 seconds
+Dispensing 400.0 uL into A1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Touching tip
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Aspirating 375.0 uL from A1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 20.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Dispensing 250.0 uL into A1 of Corning 6 Well Plate 16.8 mL Flat on 4 at 50.0 uL/sec
+Touching tip
+Moving to A4 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Dispensing 1000.0 uL into A1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 20.0 seconds
+Aspirating 400.0 uL from A1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 10.0 seconds
+Dispensing 400.0 uL into A1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Touching tip
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Aspirating 375.0 uL from A1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 20.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Dispensing 250.0 uL into A1 of Corning 6 Well Plate 16.8 mL Flat on 4 at 50.0 uL/sec
+Touching tip
+Moving to A4 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Dispensing 1000.0 uL into A1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 20.0 seconds
+Aspirating 400.0 uL from A1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 10.0 seconds
+Dispensing 400.0 uL into A1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Touching tip
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Moving to A1 of AMDM 12 50ml falcon tube on 1
+Delaying for 0 minutes and 10.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Moving to A1 of Corning 6 Well Plate 16.8 mL Flat on 4
+Delaying for 0 minutes and 5.0 seconds
+Touching tip
+Moving to A1 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Touching tip
+Moving to A1 of AMDM 12 50ml falcon tube on 1
+Delaying for 0 minutes and 10.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Moving to A1 of Corning 6 Well Plate 16.8 mL Flat on 4
+Delaying for 0 minutes and 5.0 seconds
+Touching tip
+Moving to A1 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Touching tip
+Moving to A1 of AMDM 12 50ml falcon tube on 1
+Delaying for 0 minutes and 10.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Moving to A1 of Corning 6 Well Plate 16.8 mL Flat on 4
+Delaying for 0 minutes and 5.0 seconds
+Touching tip
+Moving to A1 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Touching tip
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Blowing out at A1 of AMDM 12 50ml falcon tube on 1
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons 96 Filter Tip Rack 1000 µL on 7
+Moving to C1 of AMDM 12 50ml falcon tube on 1
+Delaying for 0 minutes and 10.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Moving to B1 of Corning 6 Well Plate 16.8 mL Flat on 4
+Delaying for 0 minutes and 5.0 seconds
+Touching tip
+Moving to C1 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Touching tip
+Moving to C1 of AMDM 12 50ml falcon tube on 1
+Delaying for 0 minutes and 10.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Moving to B1 of Corning 6 Well Plate 16.8 mL Flat on 4
+Delaying for 0 minutes and 5.0 seconds
+Touching tip
+Moving to C1 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Touching tip
+Moving to C1 of AMDM 12 50ml falcon tube on 1
+Delaying for 0 minutes and 10.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Moving to B1 of Corning 6 Well Plate 16.8 mL Flat on 4
+Delaying for 0 minutes and 5.0 seconds
+Touching tip
+Moving to C1 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Touching tip
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Aspirating 375.0 uL from C1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 20.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Dispensing 250.0 uL into B1 of Corning 6 Well Plate 16.8 mL Flat on 4 at 50.0 uL/sec
+Touching tip
+Moving to C4 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Dispensing 1000.0 uL into C1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 20.0 seconds
+Aspirating 400.0 uL from C1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 10.0 seconds
+Dispensing 400.0 uL into C1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Touching tip
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Aspirating 375.0 uL from C1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 20.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Dispensing 250.0 uL into B1 of Corning 6 Well Plate 16.8 mL Flat on 4 at 50.0 uL/sec
+Touching tip
+Moving to C4 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Dispensing 1000.0 uL into C1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 20.0 seconds
+Aspirating 400.0 uL from C1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 10.0 seconds
+Dispensing 400.0 uL into C1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Touching tip
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Aspirating 375.0 uL from C1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 20.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Dispensing 250.0 uL into B1 of Corning 6 Well Plate 16.8 mL Flat on 4 at 50.0 uL/sec
+Touching tip
+Moving to C4 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Dispensing 1000.0 uL into C1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 20.0 seconds
+Aspirating 400.0 uL from C1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Delaying for 0 minutes and 10.0 seconds
+Dispensing 400.0 uL into C1 of AMDM 12 50ml falcon tube on 1 at 100.0 uL/sec
+Touching tip
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Moving to C1 of AMDM 12 50ml falcon tube on 1
+Delaying for 0 minutes and 10.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Moving to B1 of Corning 6 Well Plate 16.8 mL Flat on 4
+Delaying for 0 minutes and 5.0 seconds
+Touching tip
+Moving to C1 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Touching tip
+Moving to C1 of AMDM 12 50ml falcon tube on 1
+Delaying for 0 minutes and 10.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Moving to B1 of Corning 6 Well Plate 16.8 mL Flat on 4
+Delaying for 0 minutes and 5.0 seconds
+Touching tip
+Moving to C1 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Touching tip
+Moving to C1 of AMDM 12 50ml falcon tube on 1
+Delaying for 0 minutes and 10.0 seconds
+Touching tip
+Touching tip
+Touching tip
+Touching tip
+Moving to B1 of Corning 6 Well Plate 16.8 mL Flat on 4
+Delaying for 0 minutes and 5.0 seconds
+Touching tip
+Moving to C1 of AMDM 12 50ml falcon tube on 1
+Pausing robot operation: Time to measure.
+Touching tip
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Blowing out at C1 of AMDM 12 50ml falcon tube on 1
+Dropping tip into A1 of Opentrons Fixed Trash on 12
